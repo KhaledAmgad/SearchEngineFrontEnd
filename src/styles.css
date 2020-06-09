@@ -1,0 +1,59 @@
+.headerFixed {
+  padding: 1%;
+  overflow: hidden;
+  box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+  background-color: #fff;
+  position: sticky;
+  top: 0;
+  width: 100%;
+}
+.inline {
+  display: inline;
+}
+.margin {
+  margin: 1%;
+}
+.pageButton {
+  margin-bottom: 1%;
+  margin-left: 1%;
+}
+.inputWidth {
+  width: 70%;
+  margin-bottom: 1%;
+  margin-left: 1%;
+}
+.selectCountry {
+  margin: 1.5%;
+  float: right;
+}
+.column {
+  width: 24%;
+  margin-right: 1%;
+}
+.searchComponent {
+  width: 95%;
+  margin: 1%;
+  padding: 1%;
+  box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+  background-color: #fff;
+}
+
+.row {
+  margin: 1%;
+}
+
+.textOverFlow {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.ProgressBar {
+  width: 70%;
+  height: 100%;
+}
+.trend {
+  margin: 1%;
+  padding: 1%;
+  box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+  background-color: #fff;
+}
